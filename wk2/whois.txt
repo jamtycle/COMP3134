@@ -1,0 +1,105 @@
+============================= 1st =============================
+
+Domain: amazon.ca
+Registrar: MarkMonitor International Canada Ltd.
+Registered On: 2000-09-19
+Expires On: 2024-07-16
+Updated On: 2023-07-16
+Domain Status:
+    clientDeleteProhibited
+    clientTransferProhibited
+    clientUpdateProhibited
+    serverDeleteProhibited
+    serverTransferProhibited
+    serverUpdateProhibited
+Nameservers:
+    ns1.amzndns.co.uk
+    ns1.amzndns.com
+    ns1.amzndns.net
+    ns1.amzndns.org
+    ns2.amzndns.co.uk
+    ns2.amzndns.com
+    ns2.amzndns.net
+    ns2.amzndns.org
+
+============================= 2nd =============================
+
+Domain: dropbox.com
+Registrar: MarkMonitor, Inc.
+Registered On: 1995-06-28
+Expires On: 2025-06-27
+Updated On: 2023-05-26
+Domain Status:
+    clientDeleteProhibited
+    clientTransferProhibited
+    clientUpdateProhibited
+    serverDeleteProhibited
+    serverTransferProhibited
+    serverUpdateProhibited
+Nameservers:
+    ns-1162.awsdns-17.org
+    ns-1949.awsdns-51.co.uk
+    ns-315.awsdns-39.com
+    ns-564.awsdns-06.net
+
+============================= 3rd =============================
+
+Domain: reddit.com
+Registrar: MarkMonitor, Inc.
+Registered On: 2005-04-29
+Expires On: 2024-04-29
+Updated On: 2022-03-28
+Domain Status:
+    clientDeleteProhibited
+    clientTransferProhibited
+    clientUpdateProhibited
+    serverDeleteProhibited
+    serverTransferProhibited
+    serverUpdateProhibited
+Nameservers:
+    ns-1029.awsdns-00.org
+    ns-1887.awsdns-43.co.uk
+    ns-378.awsdns-47.com
+    ns-557.awsdns-05.net
+
+============================= 4th =============================
+
+Domain: github.com
+Registrar: MarkMonitor, Inc.
+Registered On: 2007-10-09
+Expires On: 2024-10-09
+Updated On: 2022-09-07
+Domain Status:
+    clientDeleteProhibited
+    clientTransferProhibited
+    clientUpdateProhibited
+Nameservers:
+    dns1.p08.nsone.net
+    dns2.p08.nsone.net
+    dns3.p08.nsone.net
+    dns4.p08.nsone.net
+    ns-1283.awsdns-32.org
+    ns-1707.awsdns-21.co.uk
+    ns-421.awsdns-52.com
+    ns-520.awsdns-01.net
+
+============================= 5th =============================
+
+Domain: gmail.com
+Registrar: MarkMonitor, Inc.
+Registered On: 1995-08-13
+Expires On: 2024-08-12
+Updated On: 2023-07-11
+
+Domain Status:
+    clientDeleteProhibited
+    clientTransferProhibited
+    clientUpdateProhibited
+    serverDeleteProhibited
+    serverTransferProhibited
+    serverUpdateProhibited
+Nameservers:
+    ns1.google.com
+    ns2.google.com
+    ns3.google.com
+    ns4.google.com

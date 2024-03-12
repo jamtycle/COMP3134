@@ -1,0 +1,29 @@
+============================= 1st =============================
+
+Domain: amazon.ca
+IP Address: 54.239.18.172
+Geolocation: Ashburn, Virginia, United States of America
+
+============================= 2nd =============================
+
+Domain: dropbox.com
+IP Address: 162.125.248.18
+Geolocation: San Francisco, California, United States of America
+
+============================= 3rd =============================
+
+Domain: reddit.com
+IP Address: 151.101.129.140
+Geolocation: San Jose, California, United States of America
+
+============================= 4th =============================
+
+Domain: github.com
+IP Address: 192.30.255.112
+Geolocation: Seattle, Washington, United States of America
+
+============================= 5th =============================
+
+Domain: gmail.com
+IP Address: 142.250.191.69
+Geolocation: Sunnyvale, California, United States of America

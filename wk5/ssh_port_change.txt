@@ -1,0 +1,7 @@
+Step 6 command:
+service ssh restart
+
+==========================================
+
+Step 7 command:
+ssh -p 2222 root@159.203.10.106
