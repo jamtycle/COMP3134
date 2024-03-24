@@ -1,0 +1,1 @@
+converting the html comment to a php is more than enough for making it safer.

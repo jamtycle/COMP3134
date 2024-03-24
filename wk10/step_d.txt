@@ -1,0 +1,3 @@
+In the browser, there are two errors caused by not controlling the input query params, when passing hello the script fails to resolve the path returning the errors.
+
+The sensitive information is the path of the called file, including the absolute path, revealing the part of the filesystem.

@@ -1,0 +1,6 @@
+In the browser, we can see an array of [. , .. , html], and as I explained in the previous .txt, the issue is that this script exposes all the filesystem.
+
+%2e: .
+%2e: .
+%2f: /
+../ this test proves that the script works with percent-encoded values as well.

@@ -1,0 +1,1 @@
+In the browser, we can see a complete list of the server files. This is an issue because we are exposing the whole filesystem of the server to the public.
